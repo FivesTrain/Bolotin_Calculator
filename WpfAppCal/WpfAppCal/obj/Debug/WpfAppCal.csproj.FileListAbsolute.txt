@@ -1,0 +1,15 @@
+D:\C#\Project\Новая папка\WpfAppCal\WpfAppCal\bin\Debug\WpfAppCal.exe.config
+D:\C#\Project\Новая папка\WpfAppCal\WpfAppCal\bin\Debug\WpfAppCal.exe
+D:\C#\Project\Новая папка\WpfAppCal\WpfAppCal\bin\Debug\WpfAppCal.pdb
+D:\C#\Project\Новая папка\WpfAppCal\WpfAppCal\obj\Debug\WpfAppCal.csprojAssemblyReference.cache
+D:\C#\Project\Новая папка\WpfAppCal\WpfAppCal\obj\Debug\MainWindow.g.cs
+D:\C#\Project\Новая папка\WpfAppCal\WpfAppCal\obj\Debug\App.g.cs
+D:\C#\Project\Новая папка\WpfAppCal\WpfAppCal\obj\Debug\WpfAppCal_MarkupCompile.cache
+D:\C#\Project\Новая папка\WpfAppCal\WpfAppCal\obj\Debug\WpfAppCal_MarkupCompile.lref
+D:\C#\Project\Новая папка\WpfAppCal\WpfAppCal\obj\Debug\MainWindow.baml
+D:\C#\Project\Новая папка\WpfAppCal\WpfAppCal\obj\Debug\WpfAppCal.g.resources
+D:\C#\Project\Новая папка\WpfAppCal\WpfAppCal\obj\Debug\WpfAppCal.Properties.Resources.resources
+D:\C#\Project\Новая папка\WpfAppCal\WpfAppCal\obj\Debug\WpfAppCal.csproj.GenerateResource.cache
+D:\C#\Project\Новая папка\WpfAppCal\WpfAppCal\obj\Debug\WpfAppCal.csproj.CoreCompileInputs.cache
+D:\C#\Project\Новая папка\WpfAppCal\WpfAppCal\obj\Debug\WpfAppCal.exe
+D:\C#\Project\Новая папка\WpfAppCal\WpfAppCal\obj\Debug\WpfAppCal.pdb
